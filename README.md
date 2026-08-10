@@ -13,6 +13,8 @@ The objective wasn't simply to research faster.
 
 It was to improve how marketing **understands the market before it acts**.
 
+![AI-Enabled Market Intelligence System](ai-market-intelligence-system.png)
+
 ## The Problem
 
 Traditional market intelligence is often fragmented across:
